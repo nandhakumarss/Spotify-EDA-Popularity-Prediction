@@ -17,11 +17,11 @@ Here are the 13 track attributes: acousticness, danceability, durationms, energy
 
 
 ## CONTENTS
-Setting up the environment
-Importing libraries
-Uploading the data
-Data Cleaning
-EDA
-Feature Engineering
-Model Creation
-Predictions
+- Setting up the environment
+- Importing libraries
+- Uploading the data
+- Data Cleaning
+- EDA
+- Feature Engineering
+- Model Creation
+- Predictions
